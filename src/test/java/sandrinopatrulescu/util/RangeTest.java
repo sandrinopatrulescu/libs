@@ -1,10 +1,10 @@
-package sandrinopatrulescu.collections;
+package sandrinopatrulescu.util;
 
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.AssertionsForClassTypes.assertThatThrownBy;
-import static sandrinopatrulescu.collections.Range.range;
+import static sandrinopatrulescu.util.Range.range;
 
 public class RangeTest {
     @Test

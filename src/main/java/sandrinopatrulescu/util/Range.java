@@ -1,4 +1,4 @@
-package sandrinopatrulescu.collections;
+package sandrinopatrulescu.util;
 
 import java.util.stream.Stream;
 
@@ -7,6 +7,7 @@ import static java.lang.Math.abs;
 /**
  * <a href="https://github.com/BruceEckel/OnJava8-Examples/blob/master/onjava/Range.java">inspired by</a>
  */
+// TODO: IDEA: "overload" IntStream.range() - idea from On Java 8 page 520/504
 public class Range {
     // Produce a sequence [start..end) incrementing by step
     // source: java range generator https://stackoverflow.com/a/36114723/17299754

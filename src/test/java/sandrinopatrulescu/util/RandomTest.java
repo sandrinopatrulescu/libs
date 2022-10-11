@@ -1,9 +1,9 @@
-package sandrinopatrulescu.collections;
+package sandrinopatrulescu.util;
 
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
-import static sandrinopatrulescu.collections.Math.inRange;
+import static sandrinopatrulescu.util.Math.inRange;
 
 class RandomTest {
     @Test

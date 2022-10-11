@@ -1,4 +1,4 @@
-package sandrinopatrulescu.collections;
+package sandrinopatrulescu.util;
 
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.stream.IntStream;
